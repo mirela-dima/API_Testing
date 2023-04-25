@@ -1,4 +1,4 @@
-# Api Testing Samples
+# Api Testing Bugs Samples
 
 Below are two Api Tests that i wrote during my course.
 
