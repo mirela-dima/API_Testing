@@ -96,3 +96,6 @@ The temperature is displayed in Celsius/ Fahrenheit degrees.
 
 The temperature is displayed in Kelvin degrees.
 
+![API Bologna - units - metric](https://github.com/mirela-dima/API_Testing/assets/124343975/8e4b3366-b52e-4faa-88b8-ac6b56f2862c)
+
+![API Bologna - units-imperial](https://github.com/mirela-dima/API_Testing/assets/124343975/d823a7cc-4e4d-4b9b-a6ab-7f561173bb8a)
